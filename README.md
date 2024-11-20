@@ -33,7 +33,8 @@
 <a href="https://www.behance.net/gallery/212934737/World-Tour-Fest-Social-Media-Campaign-Landing-Page" target="_blank" >
 <img src="./img/tablet-landing-page.gif" width="225px"/>
 </a>
-<span>Mobile Desgin</span>
+<br/>
+<span>Mobile Desgin</span><br/>
 <a href="https://www.behance.net/gallery/212934737/World-Tour-Fest-Social-Media-Campaign-Landing-Page" target="_blank" >
 <img src="./img/mobile-landing-page.gif" width="225px"/>
 </a>
@@ -47,11 +48,12 @@
 <a href="https://www.behance.net/gallery/212934737/World-Tour-Fest-Social-Media-Campaign-Landing-Page" target="_blank" >
 <img src="./img/landing-page-desktop.png" width="525px"/>
 </a>
+<br/>
 <span>Tablet Desgin</span><br/>
 <a href="https://www.behance.net/gallery/212934737/World-Tour-Fest-Social-Media-Campaign-Landing-Page" target="_blank" >
 <img src="./img/landing-page-tablet-design.png" width="225px"/>
-</a>
-<span>Mobile Desgin</span>
+</a><br/>
+<span>Mobile Desgin</span><br/>
 <a href="https://www.behance.net/gallery/212934737/World-Tour-Fest-Social-Media-Campaign-Landing-Page" target="_blank" >
 <img src="./img/landing-page-mobile.png" width="225px"/>
 </a>
