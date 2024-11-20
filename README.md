@@ -25,11 +25,35 @@
 </ul>
 <br>
 <span>Desktop Desgin</span><br/>
-<a href="" target="_blank" >
-<img src="" width="575px"/>
+<a href="https://www.behance.net/gallery/212934737/World-Tour-Fest-Social-Media-Campaign-Landing-Page" target="_blank" >
+<img src="./img/desktop-laptop-landing-page.gif" width="575px"/>
 </a>
-<a href="" target="_blank" >
-<img src="" width="575px"/>
+<br />
+<span>Tablet Desgin</span><br/>
+<a href="https://www.behance.net/gallery/212934737/World-Tour-Fest-Social-Media-Campaign-Landing-Page" target="_blank" >
+<img src="./img/tablet-landing-page.gif" width="225px"/>
+</a>
+<span>Mobile Desgin</span><br/>
+<a href="https://www.behance.net/gallery/212934737/World-Tour-Fest-Social-Media-Campaign-Landing-Page" target="_blank" >
+<img src="./img/mobile-landing-page.gif" width="225px"/>
+</a>
+<br />
+<span>Cover</span><br/>
+<a href="https://www.behance.net/gallery/212934737/World-Tour-Fest-Social-Media-Campaign-Landing-Page" target="_blank" >
+<img src="./img/cover.png" width="225px"/>
+</a>
+<br />
+<span>Desktop Desgin</span><br/>
+<a href="https://www.behance.net/gallery/212934737/World-Tour-Fest-Social-Media-Campaign-Landing-Page" target="_blank" >
+<img src="./img/landing-page-desktop.png" width="525px"/>
+</a>
+<span>Tablet Desgin</span><br/>
+<a href="https://www.behance.net/gallery/212934737/World-Tour-Fest-Social-Media-Campaign-Landing-Page" target="_blank" >
+<img src="./img/landing-page-tablet-design.png" width="225px"/>
+</a>
+<span>Mobile Desgin</span><br/>
+<a href="https://www.behance.net/gallery/212934737/World-Tour-Fest-Social-Media-Campaign-Landing-Page" target="_blank" >
+<img src="./img/landing-page-mobile.png" width="225px"/>
 </a>
 
 
